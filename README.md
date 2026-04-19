@@ -6,8 +6,6 @@ Tech Stack: Microsoft Excel (Advanced Formulas, Data Modeling, KPI Dashboards)
 
 
 Master Dataset:
-
-Master Dataset:
 ![Main Data](images/MainData.png)
 
 
