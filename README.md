@@ -59,7 +59,7 @@ Operational Health (Traffic Light KPIs):
 
 Final Interactive Dashboards:
 ![Dashboard](images/Dashboard.png)
-![Dashboard 2](images/DashBoard(2).png)
+![Dashboard 2](images/DashBoard (2).png)
 
 ​🔴 Red (Underperforming): Specific shifts or products where the average order value fell below target thresholds, signaling a need for intervention.
 ​Dynamic Slicers: Integrated filters to allow stakeholders to view performance metrics by specific Managers (e.g., Joao Silva, Walter Muller) or by individual cities.
